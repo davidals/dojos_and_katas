@@ -1,0 +1,3 @@
+Every programmer should sharpen their skills.
+
+Mine are sharper everyday, and gets sharper with each commit!
